@@ -1,0 +1,10 @@
+{
+  "category": "Commercial Solar Installation",
+  "version": "v1",
+  "budget_ceiling_cad": 260000,
+  "max_weeks": 16,
+  "weights": {"experience": 0.30, "price": 0.25, "timeline": 0.15, "warranty": 0.15, "team": 0.15},
+  "experience_bands": [[0, 0], [1, 40], [5, 60], [8, 80], [11, 100]],
+  "warranty_split": {"panel": 0.5, "workmanship": 0.5},
+  "team_points_each": 25
+}

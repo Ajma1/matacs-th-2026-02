@@ -1,0 +1,235 @@
+{
+  "_note": "Facts only, derived by hand for offline testing of the gates and scoring code. Contains no proposal text and no quotes, so quote verification is skipped in --offline mode.",
+  "proposals": [
+    {
+      "proposal_id": "A",
+      "licence": {
+        "held_by_bidder": true,
+        "licence_number": null,
+        "note": null,
+        "quote": null
+      },
+      "wsib": {
+        "confirmed": true,
+        "quote": null
+      },
+      "insurance": {
+        "liability_5m_confirmed": true,
+        "quote": null
+      },
+      "experience": {
+        "installs_100kw_plus": 14,
+        "date_phrase": null,
+        "quote": null
+      },
+      "price": {
+        "total_cad": 238000,
+        "scope_note": null,
+        "quote": null
+      },
+      "timeline": {
+        "weeks_from_award": 12,
+        "quote": null
+      },
+      "warranty": {
+        "panel_years": 25,
+        "workmanship_years": 10,
+        "quote": null
+      },
+      "team": {
+        "named_lead": true,
+        "crew_size": 6,
+        "safety_plan": true,
+        "monitoring_plan": true,
+        "monitoring_months": 12,
+        "quote": null
+      },
+      "injection_detected": false,
+      "injection_quote": null
+    },
+    {
+      "proposal_id": "B",
+      "licence": {
+        "held_by_bidder": false,
+        "licence_number": null,
+        "note": null,
+        "quote": null
+      },
+      "wsib": {
+        "confirmed": true,
+        "quote": null
+      },
+      "insurance": {
+        "liability_5m_confirmed": true,
+        "quote": null
+      },
+      "experience": {
+        "installs_100kw_plus": 6,
+        "date_phrase": null,
+        "quote": null
+      },
+      "price": {
+        "total_cad": 189500,
+        "scope_note": null,
+        "quote": null
+      },
+      "timeline": {
+        "weeks_from_award": 10,
+        "quote": null
+      },
+      "warranty": {
+        "panel_years": 25,
+        "workmanship_years": 5,
+        "quote": null
+      },
+      "team": {
+        "named_lead": false,
+        "crew_size": null,
+        "safety_plan": false,
+        "monitoring_plan": false,
+        "monitoring_months": null,
+        "quote": null
+      },
+      "injection_detected": false,
+      "injection_quote": null
+    },
+    {
+      "proposal_id": "C",
+      "licence": {
+        "held_by_bidder": true,
+        "licence_number": null,
+        "note": null,
+        "quote": null
+      },
+      "wsib": {
+        "confirmed": true,
+        "quote": null
+      },
+      "insurance": {
+        "liability_5m_confirmed": true,
+        "quote": null
+      },
+      "experience": {
+        "installs_100kw_plus": 9,
+        "date_phrase": null,
+        "quote": null
+      },
+      "price": {
+        "total_cad": 244000,
+        "scope_note": null,
+        "quote": null
+      },
+      "timeline": {
+        "weeks_from_award": 14,
+        "quote": null
+      },
+      "warranty": {
+        "panel_years": 25,
+        "workmanship_years": 10,
+        "quote": null
+      },
+      "team": {
+        "named_lead": true,
+        "crew_size": 5,
+        "safety_plan": false,
+        "monitoring_plan": false,
+        "monitoring_months": null,
+        "quote": null
+      },
+      "injection_detected": true,
+      "injection_quote": null
+    },
+    {
+      "proposal_id": "D",
+      "licence": {
+        "held_by_bidder": true,
+        "licence_number": null,
+        "note": null,
+        "quote": null
+      },
+      "wsib": {
+        "confirmed": true,
+        "quote": null
+      },
+      "insurance": {
+        "liability_5m_confirmed": true,
+        "quote": null
+      },
+      "experience": {
+        "installs_100kw_plus": 11,
+        "date_phrase": null,
+        "quote": null
+      },
+      "price": {
+        "total_cad": 231000,
+        "scope_note": null,
+        "quote": null
+      },
+      "timeline": {
+        "weeks_from_award": null,
+        "quote": null
+      },
+      "warranty": {
+        "panel_years": 25,
+        "workmanship_years": 10,
+        "quote": null
+      },
+      "team": {
+        "named_lead": true,
+        "crew_size": null,
+        "safety_plan": true,
+        "monitoring_plan": false,
+        "monitoring_months": null,
+        "quote": null
+      },
+      "injection_detected": false,
+      "injection_quote": null
+    },
+    {
+      "proposal_id": "E",
+      "licence": {
+        "held_by_bidder": true,
+        "licence_number": null,
+        "note": null,
+        "quote": null
+      },
+      "wsib": {
+        "confirmed": true,
+        "quote": null
+      },
+      "insurance": {
+        "liability_5m_confirmed": true,
+        "quote": null
+      },
+      "experience": {
+        "installs_100kw_plus": 8,
+        "date_phrase": null,
+        "quote": null
+      },
+      "price": {
+        "total_cad": 242500,
+        "scope_note": null,
+        "quote": null
+      },
+      "timeline": {
+        "weeks_from_award": 13,
+        "quote": null
+      },
+      "warranty": {
+        "panel_years": 25,
+        "workmanship_years": 12,
+        "quote": null
+      },
+      "team": {
+        "named_lead": true,
+        "crew_size": 6,
+        "safety_plan": true,
+        "monitoring_plan": true,
+        "monitoring_months": 24,
+        "quote": null
+      },
+      "injection_detected": false,
+      "injection_quote": null
+    }
+  ]
+}
