@@ -45,3 +45,11 @@ Only admins can edit, and every edit is logged.
 | Loopholes (B) | The gate requires a licence held by the bidder, not a promised subcontractor |
 | Inconsistent price basis | Reviewer is told which bids state what their price includes |
 | Cost | One extraction per file hash, cached; small model, short schema prompt, page limits; scoring is free arithmetic |
+
+## Assumptions
+
+- The note addressed to automated reviewers belongs to proposal C, because it sits directly after C's text.
+- "Since 2021" counts as inside the 5-year window; "since 2020" is treated as partly outside, so C's install count is unverified.
+- Flagged proposals (C and D) get no automatic rank and a null score, as in the brief's example; a provisional score is given in the reason.
+- Eligibility also requires the price to be within the ceiling and any stated schedule to be within 16 weeks.
+- Scoring rules are my defaults (experience bands, best-in-pool ratios for price and timeline, a four-item team checklist); the weights are the admin's, unchanged. Re-running with other weights and rules kept A first and E second.
